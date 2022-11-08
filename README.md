@@ -5,7 +5,7 @@
  and other elements, thereby creating “tokens”. A naive way to do this is to
  simply split the string on white space:
 
-#To run the code:
+# To run the code
   make sure you install spaCY, to install spacy run 'pip install spacy'
   if you are running on another OS learn how to install here: https://spacy.io/usage
   also make sure you have python and a IDE of your choice.
